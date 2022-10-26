@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Weighted Scheduling", "Weighted Scheduling\Weighted Scheduling.pyproj", "{BA3FAE3F-BCEC-46AF-87B7-0B0B38A0C341}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA3FAE3F-BCEC-46AF-87B7-0B0B38A0C341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3FAE3F-BCEC-46AF-87B7-0B0B38A0C341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BCCFE7-FEED-4C85-B535-2A27C80EC6C9}
+	EndGlobalSection
+EndGlobal
