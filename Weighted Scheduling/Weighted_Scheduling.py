@@ -11,7 +11,7 @@ class Job:
         self.finish = finish
         self.profit = profit
 
-# find the jobs that lead to the max profit
+# find the jobs that lead to the max profit added for testing
 def find_jobs(jobs):
     size = len(jobs)
 
